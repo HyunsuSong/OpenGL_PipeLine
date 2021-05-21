@@ -1,0 +1,23 @@
+﻿  송현수_20161642_sphere.cpp
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1060,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1073,69): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1087,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1100,65): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1101,51): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1115,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1128,65): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1143,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1156,67): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1171,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1184,63): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1199,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1212,69): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1227,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1240,67): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1255,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1268,67): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1283,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1296,69): warning C4804: '-': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\OpenGlSample\송현수_20161642_sphere.cpp(1311,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  OpenGlSample.vcxproj -> C:\Users\whdfk\Downloads\포트폴리오\OpenGL파이프라인\make-final-report-hyune-su-master\OpenGlSample\x64\Debug\OpenGlSample.exe
